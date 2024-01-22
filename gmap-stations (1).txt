@@ -1,0 +1,11 @@
+#Network | Station | Latitude | Longitude | Elevation | Sitename | StartTime | EndTime
+
+#DATACENTER=IRISDMC,http://ds.iris.edu
+IM|I06H1|-12.14645|96.82032|16.8|Cocos Islands Infrasound Array, Site H1, Australia|2011-10-31T00:00:00|2599-12-31T23:59:59
+IM|I06H2|-12.14752|96.81855|17.6|Cocos Islands Infrasound Array, Site H2, Australia|2011-10-31T00:00:00|2599-12-31T23:59:59
+IM|I06H3|-12.14509|96.817741|20.8|Cocos Islands Infrasound Array, Site H3, Australia|2011-10-31T00:00:00|2599-12-31T23:59:59
+IM|I06H4|-12.14354|96.818489|16.0|Cocos Islands Infrasound Array, Site H4, Australia|2011-10-31T00:00:00|2599-12-31T23:59:59
+IM|I06H5|-12.1447|96.820847|19.3|Cocos Islands Infrasound Array, Site H5, Australia|2011-10-31T00:00:00|2599-12-31T23:59:59
+IM|I06H6|-12.14585|96.82428|29.2|Cocos Islands Infrasound Array, Site H6, Australia|2011-10-31T00:00:00|2599-12-31T23:59:59
+IM|I06H7|-12.15422|96.826881|14.0|Cocos Islands Infrasound Array, Site H7, Australia|2011-10-31T00:00:00|2599-12-31T23:59:59
+IM|I06H8|-12.15724|96.821693|11.9|Cocos Islands Infrasound Array, Site H8, Australia|2011-10-31T00:00:00|2599-12-31T23:59:59

@@ -1,0 +1,48 @@
+[
+    {
+        "Name": "",
+        "Time (UTC)": "2018-08-09T03:10:14.400000",
+        "F Stat.": 1.2714,
+        "Trace Vel. (m/s)": 348.04,
+        "Back Azimuth": 54.52,
+        "Latitude": -12.14645,
+        "Longitude": 96.82032,
+        "Elevation (m)": null,
+        "Start": 0.0,
+        "End": 150.0,
+        "Freq Range": [
+            0.7,
+            4.0
+        ],
+        "Array Dim.": 8,
+        "Method": "bartlett",
+        "Event": "",
+        "Note": "InfraPy CLI detection",
+        "Network": "IM",
+        "Station": "I06H",
+        "Channel": "BDF"
+    },
+    {
+        "Name": "",
+        "Time (UTC)": "2018-08-09T07:25:14.400000",
+        "F Stat.": 2.0819,
+        "Trace Vel. (m/s)": 352.11,
+        "Back Azimuth": 54.54,
+        "Latitude": -12.14645,
+        "Longitude": 96.82032,
+        "Elevation (m)": null,
+        "Start": -150.0,
+        "End": 0.0,
+        "Freq Range": [
+            0.7,
+            4.0
+        ],
+        "Array Dim.": 8,
+        "Method": "bartlett",
+        "Event": "",
+        "Note": "InfraPy CLI detection",
+        "Network": "IM",
+        "Station": "I06H",
+        "Channel": "BDF"
+    }
+]

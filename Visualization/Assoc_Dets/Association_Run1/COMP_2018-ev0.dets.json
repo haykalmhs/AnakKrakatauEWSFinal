@@ -1,0 +1,222 @@
+[
+    {
+        "Name": "",
+        "Time (UTC)": "2018-12-24T05:48:20",
+        "F Stat.": 6.1112,
+        "Trace Vel. (m/s)": 395.73,
+        "Back Azimuth": 85.31,
+        "Latitude": -7.37779,
+        "Longitude": 72.48417,
+        "Elevation (m)": null,
+        "Start": -5.0,
+        "End": 0.0,
+        "Freq Range": [
+            0.05,
+            5.0
+        ],
+        "Array Dim.": 7,
+        "Method": "bartlett",
+        "Event": "",
+        "Note": "InfraPy CLI detection",
+        "Network": "IM",
+        "Station": "I52H"
+    },
+    {
+        "Name": "",
+        "Time (UTC)": "2018-12-24T06:55:50",
+        "F Stat.": 6.2919,
+        "Trace Vel. (m/s)": 363.18,
+        "Back Azimuth": 81.02,
+        "Latitude": -7.37779,
+        "Longitude": 72.48417,
+        "Elevation (m)": null,
+        "Start": -10.0,
+        "End": 5.0,
+        "Freq Range": [
+            0.05,
+            5.0
+        ],
+        "Array Dim.": 7,
+        "Method": "bartlett",
+        "Event": "",
+        "Note": "InfraPy CLI detection",
+        "Network": "IM",
+        "Station": "I52H"
+    },
+    {
+        "Name": "",
+        "Time (UTC)": "2018-12-24T02:37:20",
+        "F Stat.": 3.7624,
+        "Trace Vel. (m/s)": 377.96,
+        "Back Azimuth": 54.27,
+        "Latitude": -12.14645,
+        "Longitude": 96.82032,
+        "Elevation (m)": null,
+        "Start": -10.0,
+        "End": 0.0,
+        "Freq Range": [
+            0.05,
+            5.0
+        ],
+        "Array Dim.": 7,
+        "Method": "bartlett",
+        "Event": "",
+        "Note": "InfraPy CLI detection",
+        "Network": "IM",
+        "Station": "I06H"
+    },
+    {
+        "Name": "",
+        "Time (UTC)": "2018-12-24T02:54:20",
+        "F Stat.": 3.8371,
+        "Trace Vel. (m/s)": 379.76,
+        "Back Azimuth": 52.37,
+        "Latitude": -12.14645,
+        "Longitude": 96.82032,
+        "Elevation (m)": null,
+        "Start": -5.0,
+        "End": 5.0,
+        "Freq Range": [
+            0.05,
+            5.0
+        ],
+        "Array Dim.": 7,
+        "Method": "bartlett",
+        "Event": "",
+        "Note": "InfraPy CLI detection",
+        "Network": "IM",
+        "Station": "I06H"
+    },
+    {
+        "Name": "",
+        "Time (UTC)": "2018-12-24T03:17:20",
+        "F Stat.": 2.9576,
+        "Trace Vel. (m/s)": 384.34,
+        "Back Azimuth": 54.48,
+        "Latitude": -12.14645,
+        "Longitude": 96.82032,
+        "Elevation (m)": null,
+        "Start": 0.0,
+        "End": 5.0,
+        "Freq Range": [
+            0.05,
+            5.0
+        ],
+        "Array Dim.": 7,
+        "Method": "bartlett",
+        "Event": "",
+        "Note": "InfraPy CLI detection",
+        "Network": "IM",
+        "Station": "I06H"
+    },
+    {
+        "Name": "",
+        "Time (UTC)": "2018-12-24T03:26:40",
+        "F Stat.": 2.7693,
+        "Trace Vel. (m/s)": 348.56,
+        "Back Azimuth": 54.49,
+        "Latitude": -12.14645,
+        "Longitude": 96.82032,
+        "Elevation (m)": null,
+        "Start": 0.0,
+        "End": 5.0,
+        "Freq Range": [
+            0.05,
+            5.0
+        ],
+        "Array Dim.": 7,
+        "Method": "bartlett",
+        "Event": "",
+        "Note": "InfraPy CLI detection",
+        "Network": "IM",
+        "Station": "I06H"
+    },
+    {
+        "Name": "",
+        "Time (UTC)": "2018-12-24T03:28:50",
+        "F Stat.": 3.3015,
+        "Trace Vel. (m/s)": 401.07,
+        "Back Azimuth": 53.96,
+        "Latitude": -12.14645,
+        "Longitude": 96.82032,
+        "Elevation (m)": null,
+        "Start": 0.0,
+        "End": 5.0,
+        "Freq Range": [
+            0.05,
+            5.0
+        ],
+        "Array Dim.": 7,
+        "Method": "bartlett",
+        "Event": "",
+        "Note": "InfraPy CLI detection",
+        "Network": "IM",
+        "Station": "I06H"
+    },
+    {
+        "Name": "",
+        "Time (UTC)": "2018-12-24T03:53:35",
+        "F Stat.": 4.2709,
+        "Trace Vel. (m/s)": 363.03,
+        "Back Azimuth": 53.96,
+        "Latitude": -12.14645,
+        "Longitude": 96.82032,
+        "Elevation (m)": null,
+        "Start": 0.0,
+        "End": 5.0,
+        "Freq Range": [
+            0.05,
+            5.0
+        ],
+        "Array Dim.": 7,
+        "Method": "bartlett",
+        "Event": "",
+        "Note": "InfraPy CLI detection",
+        "Network": "IM",
+        "Station": "I06H"
+    },
+    {
+        "Name": "",
+        "Time (UTC)": "2018-12-24T03:57:25",
+        "F Stat.": 3.7845,
+        "Trace Vel. (m/s)": 370.88,
+        "Back Azimuth": 53.96,
+        "Latitude": -12.14645,
+        "Longitude": 96.82032,
+        "Elevation (m)": null,
+        "Start": -5.0,
+        "End": 0.0,
+        "Freq Range": [
+            0.05,
+            5.0
+        ],
+        "Array Dim.": 7,
+        "Method": "bartlett",
+        "Event": "",
+        "Note": "InfraPy CLI detection",
+        "Network": "IM",
+        "Station": "I06H"
+    },
+    {
+        "Name": "",
+        "Time (UTC)": "2018-12-24T04:16:15",
+        "F Stat.": 2.9629,
+        "Trace Vel. (m/s)": 377.51,
+        "Back Azimuth": 54.11,
+        "Latitude": -12.14645,
+        "Longitude": 96.82032,
+        "Elevation (m)": null,
+        "Start": -5.0,
+        "End": 0.0,
+        "Freq Range": [
+            0.05,
+            5.0
+        ],
+        "Array Dim.": 7,
+        "Method": "bartlett",
+        "Event": "",
+        "Note": "InfraPy CLI detection",
+        "Network": "IM",
+        "Station": "I06H"
+    }
+]
